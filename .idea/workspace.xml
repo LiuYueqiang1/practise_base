@@ -41,7 +41,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "F:/goland/go_project/practise_base"
+    "last_opened_file_path": "F:/goland/go_project/21weeks_go"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,21 +50,37 @@
       <recent name="F:\goland\go_project\practise_base\part2" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 02.go">
+  <component name="RunManager" selected="Go 构建.go build 01.go (5)">
     <configuration name="go build 01.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="practise_base" />
       <working_directory value="$PROJECT_DIR$/.." />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gopl/chapter3/3.2float/01.go" />
+      <filePath value="$PROJECT_DIR$/gopl/chapter4/4_3map/01.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 01.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 01.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="practise_base" />
+      <working_directory value="$PROJECT_DIR$/.." />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/gopl/chapter4/4.1array/01.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 01.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="practise_base" />
       <working_directory value="$PROJECT_DIR$/.." />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gopl/chapter3/3.3/01.go" />
+      <filePath value="$PROJECT_DIR$/gopl/chapter4/4_1arrary/01.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 01.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="practise_base" />
+      <working_directory value="$PROJECT_DIR$/.." />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/learngo_Github/02-write-your-first-program/exercises/01.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -72,32 +88,16 @@
       <working_directory value="$PROJECT_DIR$/.." />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gopl/chapter2/2.5/01.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 02.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="practise_base" />
-      <working_directory value="$PROJECT_DIR$/.." />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gopl/chapter3/3.3/02.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 2.3.3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="practise_base" />
-      <working_directory value="$PROJECT_DIR$/.." />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gopl/chapter2/2.3/2.3.3.go" />
+      <filePath value="$PROJECT_DIR$/gopl/chapter4/4_2Sice/01.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build 02.go" />
-        <item itemvalue="Go 构建.go build 01.go (2)" />
+        <item itemvalue="Go 构建.go build 01.go (5)" />
         <item itemvalue="Go 构建.go build 01.go (1)" />
         <item itemvalue="Go 构建.go build 01.go" />
-        <item itemvalue="Go 构建.go build 2.3.3.go" />
+        <item itemvalue="Go 构建.go build 01.go (4)" />
+        <item itemvalue="Go 构建.go build 01.go (3)" />
       </list>
     </recent_temporary>
   </component>
